@@ -1,0 +1,47 @@
+{  
+   "posts":[  
+      {  
+         "id":1,
+         "title":"Mr",
+         "name":"Rajaraman Mahalingam",
+         "profession":"Engineer",
+         "age":36,
+         "maritalstatus":"Married"
+      },
+      {  
+         "id":2,
+         "title":"Mrs",
+         "name":"Kausalya kalyanaraman",
+         "profession":"Engineer",
+         "age":34,
+         "maritalstatus":"Married"
+      },
+      {  
+         "id":3,
+         "title":"Mr",
+         "name":"Nandakumar Manoharan",
+         "profession":"Engineer",
+         "age":36,
+         "maritalstatus":"UnMarried"
+      },
+      {  
+         "id":4,
+         "title":"Mr",
+         "name":"Sathishkumar Shanmugham",
+         "profession":"Engineer",
+         "age":22,
+         "maritalstatus":"Single"
+      },
+      {  
+         "id":5,
+         "title":"Mr",
+         "name":"Praveen Rajshekhar",
+         "profession":"Engineer",
+         "age":74,
+         "maritalstatus":"Ungil"
+      }
+   ],
+   "profile":{  
+      "name":"typicode"
+   }
+}
